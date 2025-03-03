@@ -92,11 +92,12 @@ You can **Support Us with a Coffee** ☕
 ---
 
 ### 📫 Connect with Us
-- X: [@RebirthCore](https://twitter.com/RebirthCore)  
-- Facebook: [RebirthCore](https://www.facebook.com/RebirthCore)  
-- Instagram: [RebirthCore](https://www.instagram.com/RebirthCore)  
-- LinkedIn: [RebirthCore](https://www.linkedin.com/in/RebirthCore)  
-- YouTube: [RebirthCore](https://www.youtube.com/@RebirthCore)  
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/RebirthCore)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/RebirthCore)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/RebirthCore)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/RebirthCore)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@RebirthCore)
+![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/RebirthCoreCommunity)
 
 ---
 
