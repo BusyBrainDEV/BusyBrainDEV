@@ -37,7 +37,7 @@
 - Creative Animation 🎥  
 - Graphics Design 🎨  
 - UI/UX Design 📐  
-- Brand Design 📐 
+- Brand Design 🎨
 
 We're passionate about turning **Ideas into Digital Reality**.
 
@@ -103,7 +103,7 @@ You can **Support Us with a Coffee** ☕
 ---
 
 ### 📫 Connect with Us
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&link=https://x.com/Pen__Rebirth)
+![Twitter](https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/Pen__Rebirth)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/PenRebirth)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/pen_rebirth_01)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/penrebirth𓅆-b27647291)
