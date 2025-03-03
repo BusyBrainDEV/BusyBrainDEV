@@ -6,16 +6,8 @@
 
 **Rebirth Core** is a tech brand focused on delivering innovative solutions in **App Development**, **Software Development**, **Web3 Technology**, **AI Integrations**, and **Creative Animation**.
 
----
-
-### 🌐 What We Do
-- App Development 📱  
-- Software Development 💻  
-- Web3 Projects 🌐  
-- AI Solutions 🤖  
-- Creative Animation 🎥  
-
-We're passionate about turning **Ideas into Digital Reality**.
+### 🎯 Profile Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=RebirthCore&label=Profile%20Views&color=blue&style=plastic)
 
 ---
 
@@ -32,6 +24,17 @@ We're passionate about turning **Ideas into Digital Reality**.
 
 ---
 
+### 🌐 What We Do
+- App Development 📱  
+- Software Development 💻  
+- Web3 Projects 🌐  
+- AI Solutions 🤖  
+- Creative Animation 🎥  
+
+We're passionate about turning **Ideas into Digital Reality**.
+
+---
+
 ### 🔥 Projects Done
 - **Background Remover App**  
   _AI-based background remover app built with Python and JavaScript._ ✅  
@@ -41,11 +44,6 @@ We're passionate about turning **Ideas into Digital Reality**.
 ### 📈 GitHub Stats
 ![Rebirth Core GitHub Stats](https://github-readme-stats.vercel.app/api?username=RebirthCore&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RebirthCore&layout=compact&theme=radical)
-
----
-
-### 🎯 Profile Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=RebirthCore&label=Profile%20Views&color=blue&style=plastic)
 
 ---
 
