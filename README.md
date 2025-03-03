@@ -78,16 +78,15 @@ If you like what we're building, support the mission:
 ### 🎯 Join Our Community
 🔥 Connect with other developers, share ideas, and build the future together:
 
-👉 **Join Our Telegram Group**  
-[Click to Join Telegram](https://t.me/RebirthCoreCommunity)  
+[![Telegram](https://img.shields.io/badge/Join%20Our%20Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RebirthCoreCommunity)
 
 ---
 
 ### ☕ Buy Me Coffee
 Do you like our work?  
-You can **Support Us with a Coffee** ☕  
+You can **Support Us with a Coffee** ☕
 
-[Buy Me Coffee](https://www.buymeacoffee.com/RebirthCore)
+[![Buy Me Coffee](https://img.shields.io/badge/Buy%20Me%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/RebirthCore)
 
 ---
 
