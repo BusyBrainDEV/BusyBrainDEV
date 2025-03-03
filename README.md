@@ -9,10 +9,10 @@
 ---
 
 ### 🌐 What We Do
-- App Development 📱
-- Software Development 💻
-- Web3 Projects 🌐
-- AI Solutions 🤖
+- App Development 📱  
+- Software Development 💻  
+- Web3 Projects 🌐  
+- AI Solutions 🤖  
 - Creative Animation 🎥  
 
 We're passionate about turning **Ideas into Digital Reality**.
@@ -26,12 +26,15 @@ We're passionate about turning **Ideas into Digital Reality**.
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ### 🔥 Projects Done
 - **Background Remover App**  
-_AI-based background remover app built with Python and JavaScript._ ✅  
+  _AI-based background remover app built with Python and JavaScript._ ✅  
 
 ---
 
@@ -49,7 +52,7 @@ _AI-based background remover app built with Python and JavaScript._ ✅
 ### 🤝 Open Source Contribution Guide
 We welcome **Open Source Contributors** to join our journey 🔥.
 
-👉 How to Contribute:
+👉 **How to Contribute:**
 1. Fork the Repo  
 2. Create Your Branch (`git checkout -b feature-name`)  
 3. Commit Your Changes (`git commit -m "Added new feature"`)  
@@ -66,16 +69,16 @@ We welcome **Open Source Contributors** to join our journey 🔥.
 ### 💪 Support Us
 If you like what we're building, support the mission:
 
-- Star ⭐ our repositories
-- Follow us on Social Media
-- Join Our Community Telegram Group 🚀  
+- ⭐ Star our repositories  
+- 📣 Follow us on Social Media  
+- 💬 Join Our Community Telegram Group 🚀  
 
 ---
 
 ### 🎯 Join Our Community
 🔥 Connect with other developers, share ideas, and build the future together:
 
-👉 Join Our Telegram Group  
+👉 **Join Our Telegram Group**  
 [Click to Join Telegram](https://t.me/RebirthCoreCommunity)  
 
 ---
