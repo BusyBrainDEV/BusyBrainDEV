@@ -4,7 +4,7 @@
 
 ![Rebirth Core Logo](logo.png)
 
-**Rebirth Core** is a tech brand focused on delivering innovative solutions in **App Development**, **Software Development**, **Web3 Technology**, **AI Integrations**, and **Creative Animation**.
+**Rebirth Core** is a tech brand focused on delivering innovative solutions in **App Development**, **Software Development**, **API**, **Web3 Technology**, **AI Integrations**, and **Creative Animation**.
 
 ### 🎯 Profile Visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=RebirthCore&label=Profile%20Views&color=blue&style=plastic)
@@ -29,7 +29,8 @@
 
 ### 🌐 What We Do
 - App Development 📱  
-- Software Development 💻  
+- Software Development 💻
+- API 💻 
 - Web3 Projects 🌐  
 - AI Solutions 🤖  
 - Creative Animation 🎥  
