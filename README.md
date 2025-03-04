@@ -29,6 +29,7 @@
 ---
 
 ### 🌐 What We Do
+- Web Development 🌐 
 - App Development 📱  
 - Software Development 💻  
 - API Development 💻  
