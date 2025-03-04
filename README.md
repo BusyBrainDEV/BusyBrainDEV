@@ -1,6 +1,6 @@
 # 👋 Welcome to Pen Rebirth
 
-### 🔥 App & Software Development | Web3 | AI | Animation | Graphics Design | UI/UX Design
+### 🔥 Web - App - Software Development | Web3 | AI | Animation | Graphics Design | UI/UX Design
 
 **Pen Rebirth** is a tech brand focused on delivering innovative solutions in **App Development**, **Software Development**, **API**, **Web3 Technology**, **AI Integrations**, **Graphics Design**, **UI/UX Design**, **Brand Design**, and **Creative Animation**.
 
