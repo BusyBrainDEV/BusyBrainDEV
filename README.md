@@ -107,8 +107,7 @@ You can **Support Us with a Coffee** ☕
 My Public Address to Receive **USDT**:  
 `0x2503A7AD18baf9C575E24CA88D18e34163128aEA`
 
-Pay me via Trust Wallet:  
-[Click to pay via Trust Wallet](https://link.trustwallet.com/send?coin=20000714&address=0x2503A7AD18baf9C575E24CA88D18e34163128aEA&token_id=0x55d398326f99059fF775485246999027B3197955)
+[![Pay via Trust Wallet](https://img.shields.io/badge/Pay%20via%20Trust%20Wallet-%23007AFF.svg?style=for-the-badge&logo=trustwallet&logoColor=white)](https://link.trustwallet.com/send?coin=20000714&address=0x2503A7AD18baf9C575E24CA88D18e34163128aEA&token_id=0x55d398326f99059fF775485246999027B3197955)
 
 ---
 
