@@ -1,11 +1,11 @@
-# 👋 Welcome to Pen Rebirth
+# 👋 Welcome to Rebirth Core
 
-### 🔥 Web - App - Software Development | SaaS | Web3 | AI | Animation | Graphics Design | UI/UX Design
+### 🔥 Web - App - Software Development | SaaS | Web3 | AI | Code Animation | UI/UX Design
 
-**Pen Rebirth** is a tech brand focused on delivering innovative solutions in **App Development**, **SaaS**, **Software Development**, **API**, **Web3 Technology**, **AI Integrations**, **Graphics Design**, **UI/UX Design**, **Brand Design**, and **Creative Animation**.
+**Pen Rebirth** is a tech brand focused on delivering innovative solutions in **App Development**, **SaaS**, **Software Development**, **API**, **Web3 Technology**, **AI Integrations**, **UI/UX Design** and **Creative Code Animation**.
 
 ### 🎯 Profile Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=PenRebirth&label=Profile%20Views&color=blue&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=RebirthCore&label=Profile%20Views&color=blue&style=plastic)
 
 ---
 
@@ -22,8 +22,6 @@
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Flet](https://img.shields.io/badge/Flet-%232C3E50.svg?style=for-the-badge&logo=flet&logoColor=white)
-![Corel Draw](https://img.shields.io/badge/Corel%20Draw-%2300A651.svg?style=for-the-badge&logo=coreldraw&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
@@ -36,10 +34,8 @@
 - API Development 💻  
 - Web3 Projects 🌐  
 - AI Solutions 🤖  
-- Creative Animation 🎥  
-- Graphics Design 🎨  
-- UI/UX Design 📐  
-- Brand Design 🎨
+- Creative Code Animation 🎥  
+- UI/UX Design 📐 
 
 We're passionate about turning **Ideas into Digital Reality**.
 
@@ -51,9 +47,7 @@ We're passionate about turning **Ideas into Digital Reality**.
 - **E-Commerce Website Design**  
   _Online store development with payment gateway integration._ ✅  
 - **UI/UX Design Projects**  
-  _Interactive and responsive mobile app prototypes._ ✅  
-- **Graphics Designs**  
-  _Flyers, logos, and social media designs._ ✅  
+  _Interactive and responsive mobile app prototypes._ ✅    
 - **Portfolio Website**  
   _A modern, responsive personal portfolio website._ ✅  
 - **AI Chatbot App**  
@@ -61,8 +55,8 @@ We're passionate about turning **Ideas into Digital Reality**.
 ---
 
 ### 📈 GitHub Stats
-![Pen Rebirth GitHub Stats](https://github-readme-stats.vercel.app/api?username=PenRebirth&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenRebirth&layout=compact&theme=radical)
+![Rebirth Core GitHub Stats](https://github-readme-stats.vercel.app/api?username=RebirthCore&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RebirthCore&layout=compact&theme=radical)
 
 ---
 
@@ -79,7 +73,7 @@ We welcome **Open Source Contributors** to join our journey 🔥.
 ---
 
 ### 📜 License
-![GitHub License](https://img.shields.io/github/license/PenRebirth/PenRebirth?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/RebirthCore/RebirthCore?style=for-the-badge)
 
 ---
 
@@ -99,7 +93,7 @@ If you like what we're building, support the mission:
 
 ---
 
-[![Buy Me Coffee](https://img.shields.io/badge/Buy%20Me%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourprofile)
+[![Buy Me Coffee](https://img.shields.io/badge/Buy%20Me%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://www.buymeacoffee.com/yourprofile](https://link.trustwallet.com/send?coin=20000714&address=0x2503A7AD18baf9C575E24CA88D18e34163128aEA&token_id=0x55d398326f99059fF775485246999027B3197955))
 
 Do you like our work?  
 You can **Support Us with a Coffee** ☕
@@ -112,11 +106,11 @@ My Public Address to Receive **USDT**:
 ---
 
 ### 📫 Connect with Us
-![Twitter](https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/Pen__Rebirth)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/PenRebirth)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/pen_rebirth_01)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/penrebirth𓅆-b27647291)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@pen_rebirth)
+![Twitter](https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/Rebirth_Core)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/RebirthCore)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/rebirth_core)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rebirthcore)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@rebirth_core)
 ![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/RebirthCoreCommunity)
 
 ---
