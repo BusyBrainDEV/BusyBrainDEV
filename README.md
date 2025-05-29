@@ -25,6 +25,7 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Kirby CMS](https://img.shields.io/badge/Kirby_CMS-000000.svg?style=for-the-badge&logo=kirby&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%2302569B.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 ---
 
