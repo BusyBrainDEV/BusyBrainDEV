@@ -23,6 +23,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Flet](https://img.shields.io/badge/Flet-%232C3E50.svg?style=for-the-badge&logo=flet&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Kirby CMS](https://img.shields.io/badge/Kirby_CMS-000000.svg?style=for-the-badge&logo=kirby&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -43,13 +45,7 @@ We're passionate about turning **Ideas into Digital Reality**.
 
 ### 🔥 Recent Projects
 - **Background Remover App**  
-  _AI-based background remover app built with Python and JavaScript._ ✅  
-- **E-Commerce Website Design**  
-  _Online store development with payment gateway integration._ ✅  
-- **UI/UX Design Projects**  
-  _Interactive and responsive mobile app prototypes._ ✅    
-- **Portfolio Website**  
-  _A modern, responsive personal portfolio website._ ✅  
+  _AI-based background remover app built with Python and JavaScript._ ✅   
 - **AI Chatbot App**  
   _An AI-powered chatbot for customer support._ ✅  
 - **To-Do List App**  
