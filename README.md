@@ -46,11 +46,16 @@ We're passionate about turning **Ideas into Digital Reality**.
 
 ### 🔥 Recent Projects
 - **Background Remover App**  
-  _AI-based background remover app built with Python and JavaScript._ ✅   
+  _AI-based background remover app built with Python and JavaScript._ ✅  
+
 - **AI Chatbot App**  
   _An AI-powered chatbot for customer support._ ✅  
+
 - **To-Do List App**  
   _A simple and fully functional To-Do List App with dark mode, task editing, search functionality, task reordering, and persistence._ ✅  
+
+- **Ghoost Shell - GPT-4o Terminal Helper**  
+  _Terminal-first AI assistant for developers and hackers, powered by GPT-4o. Built for code explanation, regex fixing, and shell decoding — all from the command line._ ✅
 ---
 
 ### 📈 GitHub Stats
