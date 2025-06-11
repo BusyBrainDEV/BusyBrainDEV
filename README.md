@@ -11,7 +11,7 @@ It’s not always **polished** — but it’s always in **motion**.
 🧠 **Keep the brain busy. Let the ideas breathe.**
 
 ### 🎯 Profile Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=Busy_Brain_PM&label=Profile%20Views&color=blue&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=BusyBrainPM&label=Profile%20Views&color=blue&style=plastic)
 
 ### 🔗 Visit My Official Org  
 **👉 [Rebirth Core](https://github.com/Rebirth_Core_official)** — where polished builds and big ideas live.
@@ -70,8 +70,8 @@ I passionate about turning **Ideas into Digital Reality**.
 ---
 
 ### 📈 GitHub Stats
-![Busy Brain PM GitHub Stats](https://github-readme-stats.vercel.app/api?username=Busy_Brain_PM&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Busy_Brain_PM&layout=compact&theme=radical)
+![Busy Brain PM GitHub Stats](https://github-readme-stats.vercel.app/api?username=BusyBrainPM&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BusyBrainPM&layout=compact&theme=radical)
 
 ---
 
@@ -88,7 +88,7 @@ I welcome **Open Source Contributors** Let Build Together 🔥.
 ---
 
 ### 📜 License
-![GitHub License](https://img.shields.io/github/license/Busy_Brain_PM/Busy_Brain_PM?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/BusyBrainPM/BusyBrainPM?style=for-the-badge)
 
 ---
 
