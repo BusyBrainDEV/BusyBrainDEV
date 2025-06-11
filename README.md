@@ -14,7 +14,7 @@ It’s not always **polished** — but it’s always in **motion**.
 ![Profile Views](https://komarev.com/ghpvc/?username=BusyBrainPM&label=Profile%20Views&color=blue&style=plastic)
 
 ### 🔗 Visit My Official Org  
-**👉 [Rebirth Core](https://github.com/Rebirth_Core_official)** — where polished builds and big ideas live.
+**where polished builds and big ideas live.**
 
 ![Org Link Badge](https://img.shields.io/badge/Rebirth_Core_official-Visit%20Now-blue?style=plastic&logo=github)
 
