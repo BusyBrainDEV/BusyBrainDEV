@@ -122,9 +122,8 @@ My Public Address to Receive **USDT**:
 
 ![Twitter](https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/Busy_Brain_PM)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&link=https://web.facebook.com/BusyBrainPM/)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/Busy_Brain_PM/)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@Busy_Brain_PM)
-![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Busy_Brain_PM_Community)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/busy-brain-pm-b27647291?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEbAkY8BMb-d2oJY6qKWRMUTVMHHi3_XTaI&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B6FKrUPsGR6CetMvx99o49A%3D%3D)
+![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Busy_Brain_PM)
 
 ---
 
