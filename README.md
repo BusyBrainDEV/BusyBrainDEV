@@ -1,4 +1,4 @@
-# 👋 Welcome to Busy Brain PM
+# 👋 Welcome to Busy Brain DEV
 
 ### 🔥 Web - App - Software Development | SaaS | Web3 | AI | Code Animation | UI/UX Design
 
@@ -9,7 +9,7 @@ It’s not always **polished** — but it’s always in **motion**.
 🧠 **Keep the brain busy. Let the ideas breathe.**
 
 ### 🎯 Profile Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=BusyBrainPM&label=Profile%20Views&color=blue&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=BusyBrainDEV&label=Profile%20Views&color=blue&style=plastic)
 
 ### 🔗 Visit My Official Org  
 **where polished builds and big ideas live.**
@@ -68,8 +68,8 @@ I passionate about turning **Ideas into Digital Reality**.
 ---
 
 ### 📈 GitHub Stats
-![Busy Brain PM GitHub Stats](https://github-readme-stats.vercel.app/api?username=BusyBrainPM&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BusyBrainPM&layout=compact&theme=radical)
+![Busy Brain PM GitHub Stats](https://github-readme-stats.vercel.app/api?username=BusyBrainDEV&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BusyBrainDEV&layout=compact&theme=radical)
 
 ---
 
@@ -86,7 +86,7 @@ I welcome **Open Source Contributors** Let Build Together 🔥.
 ---
 
 ### 📜 License
-![GitHub License](https://img.shields.io/github/license/BusyBrainPM/BusyBrainPM?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/BusyBrainDEV/BusyBrainDEV?style=for-the-badge)
 
 ---
 
@@ -102,7 +102,7 @@ If you like what Am building, support the mission:
 ### 🎯 Join My Community
 🔥 Connect with other developers, share ideas, and build the future together:
 
-[![Telegram](https://img.shields.io/badge/Join%20Our%20Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Busy_Brain_PM_Community)
+[![Telegram](https://img.shields.io/badge/Join%20Our%20Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Busy_Brain_DEV_Community)
 
 ---
 
@@ -120,10 +120,10 @@ My Public Address to Receive **USDT**:
 
 ### 📫 Let Connect
 
-![Twitter](https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/Busy_Brain_PM)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&link=https://web.facebook.com/BusyBrainPM/)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/busy-brain-pm-b27647291?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEbAkY8BMb-d2oJY6qKWRMUTVMHHi3_XTaI&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B6FKrUPsGR6CetMvx99o49A%3D%3D)
-![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Busy_Brain_PM)
+![Twitter](https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/Busy_Brain_DEV)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&link=https://web.facebook.com/BusyBrainDEV/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/busy-brain-dev-b27647291?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEbAkY8BMb-d2oJY6qKWRMUTVMHHi3_XTaI&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B6FKrUPsGR6CetMvx99o49A%3D%3D)
+![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Busy_Brain_DEV)
 
 ---
 
