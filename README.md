@@ -2,7 +2,7 @@
 
 ### 🔥 Web - App - Software Development | SaaS | Web3 | AI | Code Animation | UI/UX Design
 
-**Busy Brain** is my **creative tech lab** — where ideas spark into **experiments**. I play with **apps**, **APIs**, **AI**, **Web3**, and **weird code art**. blending **design**, **dev**, and **disruption** into **raw**, **unfiltered builds**.  
+**This Acct** is my **creative tech lab** — where ideas spark into **experiments**. I play with **apps**, **APIs**, **AI**, **Web3**, and **weird code art**. blending **design**, **dev**, and **disruption** into **raw**, **unfiltered builds**.  
   
 It’s not always **polished** — but it’s always in **motion**.  
   
