@@ -14,7 +14,7 @@ It’s not always **polished** — but it’s always in **motion**.
  
 </div
 
-### 🎯 Profile Visitors &nbsp; 🔗 Visit My Official Org  
+### 🎯 Profile Visitors & Visit My Official Org  
 ![Profile Views](https://komarev.com/ghpvc/?username=PeterInufinDEV&label=Profile%20Views&color=blue&style=plastic) &nbsp;&nbsp; ![Org Link Badge](https://img.shields.io/badge/Rebirth_Core_official-Visit%20Now-blue?style=plastic&logo=github)
 
 
