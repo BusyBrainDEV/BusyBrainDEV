@@ -120,7 +120,7 @@ My Public Address to Receive **USDT**:
 
 ### 📫 Let Connect
 
-![Twitter](https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/Peter_Inufin_DEV)
+![Twitter](https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/PeterInufin_DEV)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&link=https://web.facebook.com/PeterInufinDEV/)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-inufin-dev-b27647291?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEbAkY8BMb-d2oJY6qKWRMUTVMHHi3_XTaI&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B6FKrUPsGR6CetMvx99o49A%3D%3D)
 ![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Peter_Inufin_DEV)
