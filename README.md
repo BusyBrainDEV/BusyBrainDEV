@@ -8,7 +8,9 @@ It’s not always **polished** — but it’s always in **motion**.
   
 🧠 **Keep the brain busy. Let the ideas breathe.**
 
+<div style="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PeterInufinDEV&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</div>
 
 ### 🎯 Profile Visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=PeterInufinDEV&label=Profile%20Views&color=blue&style=plastic)
